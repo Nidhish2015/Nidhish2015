@@ -1,128 +1,222 @@
-<h1 align="center">Hey, I'm Nidhish Kamboj 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Python Developer · Django · Machine Learning · Power BI · Full-Stack Web</b><br/>
-  <i>Building data-driven products from Punjab, India 🇮🇳</i>
-</p>
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nidhish%20Kamboj&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20Data%20Analyst%20%7C%20Full-Stack%20Builder&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-<p align="center">
-  <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Building+data-driven+products+%F0%9F%9A%80;Django+%7C+ML+%7C+Power+BI+%7C+OpenCV;Turning+raw+data+into+real+solutions+%F0%9F%93%8A;Based+in+Punjab%2C+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- SOCIAL BADGES -->
+<a href="https://linkedin.com/in/nidhishkamboj">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:Nidhishkamboj@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/nidhishkamboj/personal-portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=nidhishkamboj&label=Profile+Views&color=7C3AED&style=for-the-badge" alt="profile views"/>
+
+</div>
+
+<br/>
 
 ---
 
-## 🧑‍💻 About Me
+## ⚡ About Me
 
-I'm a Python developer and data enthusiast with a focus on building full-stack web applications and machine learning pipelines. I've shipped projects ranging from grocery management systems to IPL analytics dashboards and object detection systems — turning raw data into usable products.
+```python
+class NidhishKamboj:
+    def __init__(self):
+        self.name        = "Nidhish Kamboj"
+        self.location    = "Punjab, India 🇮🇳"
+        self.role        = "Python Developer & Data Analyst"
+        self.focus       = ["Full-Stack Web Apps", "ML Pipelines", "Data Visualization"]
+        self.stack       = ["Django", "Python", "Power BI", "OpenCV", "SQLite"]
+        self.email       = "Nidhishkamboj@gmail.com"
+        self.linkedin    = "linkedin.com/in/nidhishkamboj"
 
-- 🔭 Currently working on: Setting up my development portfolio and deploying my projects live
-- 🌱  Currently consolidating: Django + ML integration and full-stack deployment
-- 💬 Ask me about: **Django, Power BI, ML workflows, SQLite**
-- 📍 Based in **Punjab, India**
-- 📫 Reach me at: **Nidhishkamboj@gmail.com**
+    def current_status(self):
+        return {
+            "🔭 Working on"   : "Deploying projects live with real-world impact",
+            "🌱 Learning"     : "Django + ML integration & full-stack deployment",
+            "💬 Ask me about" : "Django, Power BI, ML workflows, SQLite",
+            "🎯 Goal 2026"    : "Land a data / backend engineering role",
+        }
+
+me = NidhishKamboj()
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
+
+<div align="center">
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Frameworks & Libraries**
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 **Data & Visualization**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 **Databases & Tools**
 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛒 [Grocery Store Management System](https://github.com/Nidhish2015/Grocery-Store-Management-Systen)
-> Django · SQLite · Python
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A full-stack web app where users can browse products, manage carts, and place orders. Features include user authentication, product catalog management, and order tracking — built with Django and SQLite.
+### 🛒 Grocery Store Management System
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nidhishkamboj/Grocery-Store-Management-Systen)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**Key highlights:** Session-based cart, admin panel, full CRUD on products
+> Full-stack web app for product browsing, cart management & order placement. Built with session-based auth, admin panel, and full CRUD on products.
 
----
+✅ Session-based cart &nbsp;|&nbsp; ✅ Admin panel &nbsp;|&nbsp; ✅ Full CRUD
+
+</td>
+<td width="50%" valign="top">
 
 ### 🏏 IPL Analytics Dashboard
-> Python · Power BI · Pandas
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nidhishkamboj/IPL-Analysis-Dashboard-2008-2022)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-End-to-end analytics pipeline on IPL match data — data cleaning, feature engineering, and interactive Power BI dashboards tracking player performance, team win rates, and venue statistics.
+> End-to-end analytics on IPL 2008–2022 data with interactive dashboards tracking team & player stats, win rates, and venue trends.
 
-**Key highlights:** 10+ KPI visualizations, season-over-season trend analysis
+📊 10+ KPI Views &nbsp;|&nbsp; 📈 Season Trends &nbsp;|&nbsp; 🏟️ Venue Insights
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🏧 [ATM Machine Simulation](https://github.com/Nidhish2015/ATM-Machine-Simulation-System)
-> HTML · JavaScript · CSS
+### 🏧 ATM Machine Simulation
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nidhishkamboj/ATM-Machine-Simulation-System)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-A browser-based ATM simulation supporting balance inquiry, cash withdrawal, deposit, and PIN authentication — designed to mirror real ATM UI flows.
+> Browser-based console-style ATM simulation — balance inquiry, cash withdrawal, deposit & PIN authentication mimicking real ATM UI flows.
 
----
+🔐 PIN Auth &nbsp;|&nbsp; 💸 Withdraw/Deposit &nbsp;|&nbsp; 💰 Balance Check
+
+</td>
+<td width="50%" valign="top">
 
 ### 🎯 Object Detection System
-> Python · OpenCV · Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-Real-time object detection pipeline using computer vision techniques — identifies and labels objects in video frames with bounding boxes.
+> Real-time object detection pipeline using computer vision — identifies and labels objects in live video frames with bounding boxes.
 
----
+👁️ Real-Time &nbsp;|&nbsp; 🤖 CV Pipeline &nbsp;|&nbsp; 📦 Bounding Boxes
 
-### 🌐 [Personal Portfolio](https://github.com/Nidhish2015/personal-portfolio)
-> HTML · CSS · JavaScript
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Responsive portfolio website showcasing my work as a Full Stack Developer and Data Analyst.
-**→ [Live Demo]**
+### 🌐 Personal Portfolio
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nidhishkamboj/personal-portfolio)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+> Responsive personal portfolio showcasing my work as a Full Stack Developer & Data Analyst — built from scratch.
+
+📱 Responsive &nbsp;|&nbsp; 🎨 Custom Design &nbsp;|&nbsp; ⚡ Vanilla JS
+
+</td>
+<td width="50%" valign="top">
+
+<br/><br/>
+
+<div align="center">
+
+**More projects coming soon...**
+
+![WIP](https://img.shields.io/badge/🔧%20In%20Progress-ML%20on%20Hugging%20Face-7C3AED?style=for-the-badge)
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nidhish2015&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhish2015&layout=compact&theme=github_dark&hide_border=true" height="150"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhish2015&theme=github-dark-blue&hide_border=true"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=nidhishkamboj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhishkamboj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhishkamboj&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhishkamboj&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=7C3AED&point=ffffff" width="95%"/>
+
+</div>
 
 ---
 
 ## 🎯 2026 Goals
 
-- [ ] Deploy 3 full-stack projects with live URLs
-- [ ] Contribute to 5 open-source repositories
-- [ ] Build and publish an ML project on Hugging Face
-- [ ] Reach 200+ GitHub contributions
-- [ ] Land a data / backend engineering role
+<div align="center">
+
+| Goal | Status |
+|------|--------|
+| 🚀 Deploy 3 full-stack projects with live URLs | 🔄 In Progress |
+| 🤝 Contribute to 5 open-source repositories | 📋 Planned |
+| 🤖 Build & publish an ML project on Hugging Face | 📋 Planned |
+| 📈 Reach 200+ GitHub contributions | 🔄 In Progress |
+| 💼 Land a data / backend engineering role | 🎯 Target |
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nidhish2015&label=Profile+views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+<div align="center">
 
-<p align="center"><i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
+
+*"Code is like humor. When you have to explain it, it's bad."* — **Cory House**
+
+</div>
